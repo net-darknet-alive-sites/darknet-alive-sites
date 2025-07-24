@@ -128,4 +128,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  21 July Fixed inaccessible link
+
+
+Update: url is back online and functioning
